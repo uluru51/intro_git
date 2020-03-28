@@ -10,3 +10,4 @@ Vimエディタの使い方 (commitの編集方法)
 ⑦「:wq」を入力してエンターを押す
 (commitメッセージを保存してエディタを閉じる)
 ３.git remove
+4.git status
